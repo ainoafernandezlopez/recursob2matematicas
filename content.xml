@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026060609502070PIKK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260606095020ETRAFG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto Final: &quot;Las estadísticas que nos rodean&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ainoa Fernández L</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en la investigación social y el análisis de temáticas que formen parte de la realidad cotidiana del alumnado, a elegir por ellos mismos. Por ejemplo: deportes, moda, redes sociales, libros, cine, etc. Se convierten en “analistas de datos” de su propio entorno. Nivel al que va dirigido: 3º ESO. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780732174322</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq21yjeg-9o6jtmdaq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjeg-9o6jtmdaq</odePageId>
+      <odeBlockId>block-1780679955243-a32dqol0q</odeBlockId>
+      <blockName>¿Qué es la Estadística?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjeg-9o6jtmdaq</odePageId>
+          <odeBlockId>block-1780679955243-a32dqol0q</odeBlockId>
+          <odeIdeviceId>idevice-1780679955241-pryo8ajqz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/0_ybaigJd1s" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679955241-pryo8ajqz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/0_ybaigJd1s\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+  <odeParentPageId>page-mq21yjeg-9o6jtmdaq</odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+      <odeBlockId>block-1780675708554-q9t7puli0</odeBlockId>
+      <blockName>¿En qué consiste el proyecto?</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+          <odeBlockId>block-1780675708554-q9t7puli0</odeBlockId>
+          <odeIdeviceId>idevice-1780675708551-n7lfo1aw5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El proyecto se centra en la <strong>investigación social y el análisis de temáticas que formen parte de la realidad cotidiana del alumnado</strong>, a elegir por ellos mismos. Por ejemplo: deportes, moda, redes sociales, libros, cine, etc. Se convierten en “analistas de datos” de su propio entorno.  </p>
+<p style="text-align: justify;">Está dirigido la materia de <strong>Matemáticas de 3ºESO</strong>. Se pretende profundizar en la <strong>Estadística Unidimensional</strong> y en el conocimiento de ciertas <strong>herramientas digitales</strong>. La metodología utilizada será el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780675708551-n7lfo1aw5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El proyecto se centra en la <strong>investigación social y el análisis de temáticas que formen parte de la realidad cotidiana del alumnado</strong>, a elegir por ellos mismos. Por ejemplo: deportes, moda, redes sociales, libros, cine, etc. Se convierten en “analistas de datos” de su propio entorno.  </p>\n<p style=\"text-align: justify;\">Está dirigido la materia de <strong>Matemáticas de 3ºESO</strong>. Se pretende profundizar en la <strong>Estadística Unidimensional</strong> y en el conocimiento de ciertas <strong>herramientas digitales</strong>. La metodología utilizada será el <strong>Aprendizaje Basado en Proyectos (ABP)</strong>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+      <odeBlockId>block-1780677608396-zkrcimfe0</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+          <odeBlockId>block-1780677608396-zkrcimfe0</odeBlockId>
+          <odeIdeviceId>idevice-1780677608394-vpjo137ma</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La <strong>temporalización</strong> aproximada del proyecto es de <strong>9 sesiones</strong>. </p>
+<ul>
+<li><em><strong>Sesiones 1 y 2: </strong></em>Elección de las preguntas (que utilicen diferentes tipos de variables estadísticas). Elaboración y envío del Formulario de Google (vía mensajería instantánea o correo electrónico) a las personas que quieren encuestar (muestra), acorde a la población a la que está dirigida su estudio. </li>
+<li><em><strong>Sesiones 3, 4 y 5: </strong></em>Procesamiento y recogida de datos en tablas. Realización de los cálculos estadísticos en la Hoja de Cálculo. Elaboración de gráficos para cada variable estadística.</li>
+<li><em><strong>Sesiones 6 y 7:</strong></em> Análisis de resultados y conclusiones. Elaboración de la presentación final en Presentaciones de Google/Canva.</li>
+<li><em><strong>Sesiones 8 y 9: </strong></em>Exposición por grupos de las presentaciones en el aula. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780677608394-vpjo137ma","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La <strong>temporalización</strong> aproximada del proyecto es de <strong>9 sesiones</strong>. </p>\n<ul>\n<li><em><strong>Sesiones 1 y 2: </strong></em>Elección de las preguntas (que utilicen diferentes tipos de variables estadísticas). Elaboración y envío del Formulario de Google (vía mensajería instantánea o correo electrónico) a las personas que quieren encuestar (muestra), acorde a la población a la que está dirigida su estudio. </li>\n<li><em><strong>Sesiones 3, 4 y 5: </strong></em>Procesamiento y recogida de datos en tablas. Realización de los cálculos estadísticos en la Hoja de Cálculo. Elaboración de gráficos para cada variable estadística.</li>\n<li><em><strong>Sesiones 6 y 7:</strong></em> Análisis de resultados y conclusiones. Elaboración de la presentación final en Presentaciones de Google/Canva.</li>\n<li><em><strong>Sesiones 8 y 9: </strong></em>Exposición por grupos de las presentaciones en el aula. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+      <odeBlockId>block-1780677956658-p0h19a4jf</odeBlockId>
+      <blockName>Materias implicadas</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+          <odeBlockId>block-1780677956658-p0h19a4jf</odeBlockId>
+          <odeIdeviceId>idevice-1780677956655-32enzg63a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto es interdisciplinar y se realiza de manera coordinada con diferentes departamentos. Las materias que se abordan son las siguientes: </p>
+<ul>
+<li><em><strong>Matemáticas: </strong></em>Estadística. Recuento, cálculo y representación gráfica de los datos</li>
+<li><em><strong>Tecnología y Digitalización: </strong></em>Uso de herramientas en la nube (Google Workspace/Canva).</li>
+<li><em><strong>Lengua Castellana y Literatura:</strong> </em>Expresión oral y escrita en la presentación de resultados.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780677956655-32enzg63a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto es interdisciplinar y se realiza de manera coordinada con diferentes departamentos. Las materias que se abordan son las siguientes: </p>\n<ul>\n<li><em><strong>Matemáticas: </strong></em>Estadística. Recuento, cálculo y representación gráfica de los datos</li>\n<li><em><strong>Tecnología y Digitalización: </strong></em>Uso de herramientas en la nube (Google Workspace/Canva).</li>\n<li><em><strong>Lengua Castellana y Literatura:</strong> </em>Expresión oral y escrita en la presentación de resultados.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+      <odeBlockId>block-1780678330102-7bbgwk7s6</odeBlockId>
+      <blockName>Descripción general, objetivos y justificación</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjei-3cy9nv70b</odePageId>
+          <odeBlockId>block-1780678330102-7bbgwk7s6</odeBlockId>
+          <odeIdeviceId>idevice-1780678330099-7ruq4ug4y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />El <strong>objetivo</strong> de esta Situación de Aprendizaje es que el alumnado sea capaz de realizar un análisis estadístico de una temática determinada y para una población concreta. A través de un aprendizaje basado en proyectos (ABP), los estudiantes trabajarán de forma cooperativa para:</p>
+<ol>
+<li>Definir una muestra y población relevante para su estudio.</li>
+<li>Diseñar herramientas de recogida de datos eficaces, aprendiendo a diferenciar entre variables cualitativas y cuantitativas (discretas y continuas).</li>
+<li>Dominar la competencia digital, utilizando fórmulas en hojas de cálculo para obtener medidas de centralización (media, mediana, moda) y de dispersión (rango, desviación típica).</li>
+<li>Interpretar críticamente los resultados, aprendiendo a elegir el gráfico más adecuado (sectores, barras, histogramas) y detectando posibles sesgos en la información.</li>
+<li>Comunicar, sintetizando sus hallazgos en un soporte visual atractivo y exponiéndolos oralmente ante el resto de compañeros. </li>
+</ol>
+<p></p>
+<p>La estructura del proyecto responde a una planificación docente alineada con el currículo de 3º de ESO y las competencias digitales actuales. </p>
+<p>La elección de "Las estadísticas que nos rodean" se justifica por <strong>tres puntos principales</strong>: </p>
+<ul>
+<li><em><strong>Conexión con la realidad: </strong></em>El proyecto permite que el alumnado elija temas de su entorno cotidiano, como redes sociales o moda. Esto transforma las matemáticas de un concepto abstracto en una herramienta útil para entender su propia realidad social.</li>
+<li><em><strong>Desarrollo de la Competencia Digital: </strong></em>La integración de Google Workspace y Canva no es solo un soporte, sino un objetivo de aprendizaje en sí mismo. Es necesario que dominen el procesamiento de datos y su presentación mediante el entorno de Google.  </li>
+<li><em><strong>Enfoque Competencial y Multidisciplinar:</strong> </em>Al involucrar materias como Lengua Castellana (expresión oral) y Tecnología (competencia digital), el proyecto cumple con la exigencia curricular de trabajar de forma integral. No solo calculan la media o la desviación típica; aprenden a comunicar resultados y a trabajar de forma cooperativa. </li>
+</ul>
+<p></p>
+<p>Esta propuesta sustituye la resolución pasiva de ejercicios por un Aprendizaje Basado en Proyectos (ABP). La progresión que se plantea (desde la creación de la encuesta hasta la exposición pública) garantiza que el alumno recorra el ciclo completo de la investigación estadística: </p>
+<ul>
+<li><em><strong>Fase Crítica: </strong></em>Al diseñar las preguntas, deben diferenciar entre variables cualitativas y cuantitativas, lo que asienta la base teórica.</li>
+<li><em><strong>Fase Analítica: </strong></em>El uso de hojas de cálculo para obtener medidas de centralización y dispersión les ahorra el cálculo mecánico tedioso, permitiéndoles centrarse en la interpretación de resultados.</li>
+<li><em><strong>Fase Comunicativa: </strong></em>La exposición final ante el aula cierra el proceso, asegurando que el conocimiento se consolide al tener que explicarlo a otros.</li>
+</ul>
+<p></p>
+<p>En resumen, la elección del proyecto está argumentada por su capacidad de hacer al alumnado protagonista de su propio aprendizaje y convertirlo en “analista de datos”, cumpliendo con los estándares de 3º de ESO de una manera dinámica y tecnológica. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678330099-7ruq4ug4y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />El <strong>objetivo</strong> de esta Situación de Aprendizaje es que el alumnado sea capaz de realizar un análisis estadístico de una temática determinada y para una población concreta. A través de un aprendizaje basado en proyectos (ABP), los estudiantes trabajarán de forma cooperativa para:</p>\n<ol>\n<li>Definir una muestra y población relevante para su estudio.</li>\n<li>Diseñar herramientas de recogida de datos eficaces, aprendiendo a diferenciar entre variables cualitativas y cuantitativas (discretas y continuas).</li>\n<li>Dominar la competencia digital, utilizando fórmulas en hojas de cálculo para obtener medidas de centralización (media, mediana, moda) y de dispersión (rango, desviación típica).</li>\n<li>Interpretar críticamente los resultados, aprendiendo a elegir el gráfico más adecuado (sectores, barras, histogramas) y detectando posibles sesgos en la información.</li>\n<li>Comunicar, sintetizando sus hallazgos en un soporte visual atractivo y exponiéndolos oralmente ante el resto de compañeros. </li>\n</ol>\n<p></p>\n<p>La estructura del proyecto responde a una planificación docente alineada con el currículo de 3º de ESO y las competencias digitales actuales. </p>\n<p>La elección de \"Las estadísticas que nos rodean\" se justifica por <strong>tres puntos principales</strong>: </p>\n<ul>\n<li><em><strong>Conexión con la realidad: </strong></em>El proyecto permite que el alumnado elija temas de su entorno cotidiano, como redes sociales o moda. Esto transforma las matemáticas de un concepto abstracto en una herramienta útil para entender su propia realidad social.</li>\n<li><em><strong>Desarrollo de la Competencia Digital: </strong></em>La integración de Google Workspace y Canva no es solo un soporte, sino un objetivo de aprendizaje en sí mismo. Es necesario que dominen el procesamiento de datos y su presentación mediante el entorno de Google.  </li>\n<li><em><strong>Enfoque Competencial y Multidisciplinar:</strong> </em>Al involucrar materias como Lengua Castellana (expresión oral) y Tecnología (competencia digital), el proyecto cumple con la exigencia curricular de trabajar de forma integral. No solo calculan la media o la desviación típica; aprenden a comunicar resultados y a trabajar de forma cooperativa. </li>\n</ul>\n<p></p>\n<p>Esta propuesta sustituye la resolución pasiva de ejercicios por un Aprendizaje Basado en Proyectos (ABP). La progresión que se plantea (desde la creación de la encuesta hasta la exposición pública) garantiza que el alumno recorra el ciclo completo de la investigación estadística: </p>\n<ul>\n<li><em><strong>Fase Crítica: </strong></em>Al diseñar las preguntas, deben diferenciar entre variables cualitativas y cuantitativas, lo que asienta la base teórica.</li>\n<li><em><strong>Fase Analítica: </strong></em>El uso de hojas de cálculo para obtener medidas de centralización y dispersión les ahorra el cálculo mecánico tedioso, permitiéndoles centrarse en la interpretación de resultados.</li>\n<li><em><strong>Fase Comunicativa: </strong></em>La exposición final ante el aula cierra el proceso, asegurando que el conocimiento se consolide al tener que explicarlo a otros.</li>\n</ul>\n<p></p>\n<p>En resumen, la elección del proyecto está argumentada por su capacidad de hacer al alumnado protagonista de su propio aprendizaje y convertirlo en “analista de datos”, cumpliendo con los estándares de 3º de ESO de una manera dinámica y tecnológica. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq21yjek-hidv311v4</odePageId>
+  <odeParentPageId>page-mq21yjeg-9o6jtmdaq</odeParentPageId>
+  <pageName>Datos personales y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjek-hidv311v4</odePageId>
+      <odeBlockId>block-1780680305791-fvlw7ekty</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjek-hidv311v4</odePageId>
+          <odeBlockId>block-1780680305791-fvlw7ekty</odeBlockId>
+          <odeIdeviceId>idevice-1780680305790-shigkogjo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="asset://f50fcaa2-0a3c-2059-b9a7-03489a033e3c.png" width="800" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780680305790-shigkogjo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://f50fcaa2-0a3c-2059-b9a7-03489a033e3c.png\" width=\"800\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq21yjek-5l4amvrc9</odePageId>
+  <odeParentPageId>page-mq21yjeg-9o6jtmdaq</odeParentPageId>
+  <pageName>Sobre el Producto Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sobre el Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sobre el Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjek-5l4amvrc9</odePageId>
+      <odeBlockId>block-1780681899505-1qvr8f2ts</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjek-5l4amvrc9</odePageId>
+          <odeBlockId>block-1780681899505-1qvr8f2ts</odeBlockId>
+          <odeIdeviceId>idevice-1780681899499-99lv0mj7k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a contextualizar el proyecto que se va a realizar indicando el título, el centro de interés y el nivel al que va dirigido. En concreto, son los siguientes: </p>
+<p><br /><strong>Título del proyecto: </strong>Las estadísticas que nos rodean: "(+ temática elegida)".  </p>
+<p><br /><strong>Centro de interés o temática:</strong> el proyecto se centra en la investigación social y el análisis de temáticas que formen parte de la realidad cotidiana del alumnado, a elegir por ellos mismos. Por ejemplo: deportes, moda, redes sociales, libros, cine, etc. Se convierten en “analistas de datos” de su propio entorno.  </p>
+<p><br /><strong>Nivel al que va dirigido: </strong>3º ESO, puesto que en este nivel, en el currículo se profundiza en la estadística unidimensional. Además, también tienen algunos conocimientos de herramientas digitales. </p>
+<p><br />Las <strong>herramientas</strong> que se le proponen al alumnado para la realización de su proyecto, son las siguientes: </p>
+<ul>
+<li><strong>Formularios de Google </strong>(Google Forms). Para la elaboración de la encuesta sobre la temática trabajada (5 preguntas con diferentes variables estadísticas), y que posteriormente enviarán a las personas que formen parte de la muestra del estudio.</li>
+<li><strong>Herramienta de ofimática online</strong> (Hoja de Cálculo de Google). Para la realización de las tablas estadísticas, se utilizará una hoja de cálculo para agilizar la obtención de los resultados. En ella, también se realizan gráficos estadísticos para representar los datos de las variables estudiadas.</li>
+<li><strong>Presentación online</strong> (Presentaciones de Google): se presentan los resultados obtenidos de manera visual y se realiza una síntesis con las conclusiones del estudio estadístico. </li>
+</ul>
+<p>Las herramientas propuestas se justifican por los siguientes motivos: </p>
+<ul>
+<li><strong>Disponibilidad del centro: </strong>son de fácil acceso porque la mayoría de centros educativos disponen de un entorno digital adecuado (ordenadores portátiles y conexión a internet). El acceso a las herramientas es gratuito para la comunidad educativa.</li>
+<li><strong>Edad, características y competencia digital del alumnado: </strong>el nivel al que se dirige la actividad es 3º ESO. Es un curso donde ya deben de haber adquirido ciertas competencias tecnológicas de cursos anteriores (en asignaturas como Computación y Robótica) y que tienen la madurez suficiente para dominar las herramientas que se quieren trabajar.</li>
+<li><strong>Contexto del proyecto: </strong>la Estadística es una rama de las matemáticas muy ligada a la realización de cálculos mediante las Hojas de Cálculo, y es una habilidad que puede serles de gran utilidad en el futuro. <br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780681899499-99lv0mj7k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a contextualizar el proyecto que se va a realizar indicando el título, el centro de interés y el nivel al que va dirigido. En concreto, son los siguientes: </p>\n<p><br /><strong>Título del proyecto: </strong>Las estadísticas que nos rodean: \"(+ temática elegida)\".  </p>\n<p><br /><strong>Centro de interés o temática:</strong> el proyecto se centra en la investigación social y el análisis de temáticas que formen parte de la realidad cotidiana del alumnado, a elegir por ellos mismos. Por ejemplo: deportes, moda, redes sociales, libros, cine, etc. Se convierten en “analistas de datos” de su propio entorno.  </p>\n<p><br /><strong>Nivel al que va dirigido: </strong>3º ESO, puesto que en este nivel, en el currículo se profundiza en la estadística unidimensional. Además, también tienen algunos conocimientos de herramientas digitales. </p>\n<p><br />Las <strong>herramientas</strong> que se le proponen al alumnado para la realización de su proyecto, son las siguientes: </p>\n<ul>\n<li><strong>Formularios de Google </strong>(Google Forms). Para la elaboración de la encuesta sobre la temática trabajada (5 preguntas con diferentes variables estadísticas), y que posteriormente enviarán a las personas que formen parte de la muestra del estudio.</li>\n<li><strong>Herramienta de ofimática online</strong> (Hoja de Cálculo de Google). Para la realización de las tablas estadísticas, se utilizará una hoja de cálculo para agilizar la obtención de los resultados. En ella, también se realizan gráficos estadísticos para representar los datos de las variables estudiadas.</li>\n<li><strong>Presentación online</strong> (Presentaciones de Google): se presentan los resultados obtenidos de manera visual y se realiza una síntesis con las conclusiones del estudio estadístico. </li>\n</ul>\n<p>Las herramientas propuestas se justifican por los siguientes motivos: </p>\n<ul>\n<li><strong>Disponibilidad del centro: </strong>son de fácil acceso porque la mayoría de centros educativos disponen de un entorno digital adecuado (ordenadores portátiles y conexión a internet). El acceso a las herramientas es gratuito para la comunidad educativa.</li>\n<li><strong>Edad, características y competencia digital del alumnado: </strong>el nivel al que se dirige la actividad es 3º ESO. Es un curso donde ya deben de haber adquirido ciertas competencias tecnológicas de cursos anteriores (en asignaturas como Computación y Robótica) y que tienen la madurez suficiente para dominar las herramientas que se quieren trabajar.</li>\n<li><strong>Contexto del proyecto: </strong>la Estadística es una rama de las matemáticas muy ligada a la realización de cálculos mediante las Hojas de Cálculo, y es una habilidad que puede serles de gran utilidad en el futuro. <br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq21yjel-yrcm0wc7y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SECUENCIACIÓN DE ACTIVIDADES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIACIÓN DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIACIÓN DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SECUENCIACIÓN DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjel-yrcm0wc7y</odePageId>
+      <odeBlockId>block-1780682481387-1l28gf6ei</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjel-yrcm0wc7y</odePageId>
+          <odeBlockId>block-1780682481387-1l28gf6ei</odeBlockId>
+          <odeIdeviceId>idevice-1780682481385-mgy7zslc7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="asset://264a12d8-816a-02ae-2f17-d5326b79af8a.png" width="800" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780682481385-mgy7zslc7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"asset://264a12d8-816a-02ae-2f17-d5326b79af8a.png\" width=\"800\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq21yjel-yrcm0wc7y</odePageId>
+      <odeBlockId>block-1780685811764-dq7ginq33</odeBlockId>
+      <blockName>Herramientas, tutoriales y recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjel-yrcm0wc7y</odePageId>
+          <odeBlockId>block-1780685811764-dq7ginq33</odeBlockId>
+          <odeIdeviceId>idevice-1780685811761-criuv8jn0</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">Ayuda para la realización de actividades</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><ul>
+<li>Herramientas, tutoriales, vídeos o recursos que necesitará tu alumnado para hacer el proyecto. <a href="Herramientas,%20tutoriales,%20vídeos%20o%20recursos%20que%20necesitará%20tu%20alumnado%20para%20hacer%20el%20proyecto.%20https://padlet.com/aferlop725/herramientas-para-las-estadisticas-que-nos-rodean-wtil445ktfnbueat%20%20Herramientas%20para%20el%20día%20a%20día%20en%20clase.%20https://www.symbaloo.com/shared/AAAAAVY87ZkAA41-5EnpPw==" title="">https://padlet.com/aferlop725/herramientas-para-las-estadisticas-que-nos-rodean-wtil445ktfnbueat</a></li>
+<li>Herramientas para el día a día en clase. <a href="Herramientas,%20tutoriales,%20vídeos%20o%20recursos%20que%20necesitará%20tu%20alumnado%20para%20hacer%20el%20proyecto.%20https://padlet.com/aferlop725/herramientas-para-las-estadisticas-que-nos-rodean-wtil445ktfnbueat%20%20Herramientas%20para%20el%20día%20a%20día%20en%20clase.%20https://www.symbaloo.com/shared/AAAAAVY87ZkAA41-5EnpPw==" title="">https://www.symbaloo.com/shared/AAAAAVY87ZkAA41-5EnpPw==</a></li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+      <odeBlockId>block-1780687887017-6u6ww1z1r</odeBlockId>
+      <blockName>Cómo y qué evaluar</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+          <odeBlockId>block-1780687887017-6u6ww1z1r</odeBlockId>
+          <odeIdeviceId>idevice-1780687887017-khqihvc5j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto, la evaluación se articulará en torno a tres ejes fundamentales:</p>
+<ul>
+<li><strong>Técnicas de evaluación: </strong>Responden al ¿cómo evaluar?</li>
+<li><strong>Instrumentos de evaluación: </strong>Responden al ¿con qué evaluar? Actúan como herramientas clave para ofrecer un feedback continuo y una retroalimentación formativa al alumnado.</li>
+<li><strong>Sugerencias de mejora: </strong>Propuestas orientadas a guiar el avance del estudiante y del docente. </li>
+</ul>
+<p>🔍 1. Técnicas de Evaluación<br />Para realizar un seguimiento exhaustivo, se emplearán principalmente técnicas de observación directa y de análisis de las producciones del alumnado.</p>
+<p>🛠️ 2. Instrumentos de Evaluación<br />Para la recogida de datos y la posterior retroalimentación, se diseñarán y aplicarán los siguientes instrumentos:</p>
+<ul>
+<li>Lista de control.</li>
+<li>Escala de valoración.</li>
+<li>Rúbrica.</li>
+<li>Diana de evaluación.</li>
+</ul>
+<p>🚀 3. Sugerencias de Mejora<br />Con el fin de fomentar el aprendizaje significativo, las sugerencias de mejora se integrarán directamente en los procesos de autoevaluación del alumnado. De este modo, los estudiantes podrán reflexionar sobre su propio progreso de forma activa y autónoma. Esto ayudará al docente en su labor para averiguar qué aspectos se pueden mejorar. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780687887017-khqihvc5j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto, la evaluación se articulará en torno a tres ejes fundamentales:</p>\n<ul>\n<li><strong>Técnicas de evaluación: </strong>Responden al ¿cómo evaluar?</li>\n<li><strong>Instrumentos de evaluación: </strong>Responden al ¿con qué evaluar? Actúan como herramientas clave para ofrecer un feedback continuo y una retroalimentación formativa al alumnado.</li>\n<li><strong>Sugerencias de mejora: </strong>Propuestas orientadas a guiar el avance del estudiante y del docente. </li>\n</ul>\n<p>🔍 1. Técnicas de Evaluación<br />Para realizar un seguimiento exhaustivo, se emplearán principalmente técnicas de observación directa y de análisis de las producciones del alumnado.</p>\n<p>🛠️ 2. Instrumentos de Evaluación<br />Para la recogida de datos y la posterior retroalimentación, se diseñarán y aplicarán los siguientes instrumentos:</p>\n<ul>\n<li>Lista de control.</li>\n<li>Escala de valoración.</li>\n<li>Rúbrica.</li>\n<li>Diana de evaluación.</li>\n</ul>\n<p>🚀 3. Sugerencias de Mejora<br />Con el fin de fomentar el aprendizaje significativo, las sugerencias de mejora se integrarán directamente en los procesos de autoevaluación del alumnado. De este modo, los estudiantes podrán reflexionar sobre su propio progreso de forma activa y autónoma. Esto ayudará al docente en su labor para averiguar qué aspectos se pueden mejorar. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+      <odeBlockId>block-1780687043766-f0ztubyu3</odeBlockId>
+      <blockName>Relación criterios-tareas</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+          <odeBlockId>block-1780687043766-f0ztubyu3</odeBlockId>
+          <odeIdeviceId>idevice-1780687043765-phetkl6sy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace, se detalla la <strong>relación entre los criterios de evaluación y las tareas</strong>: </p>
+<p style="text-align: center;"><a href="https://docs.google.com/document/d/1MH-CxZZodNb4BtoQy2hqzfjr4Zx2gZKU/edit" title="">TABLA CRITERIOS DE EVALUACIÓN</a></p>
+<p style="text-align: left;">De manera <strong>resumida</strong>, lo expresamos a continuación: </p>
+<p style="text-align: left;"></p>
+<h3>📝 <strong>Tarea 1: Creación de la encuesta del estudio</strong><br />🎯 Criterios de evaluación:</h3>
+<p>4.1. Organizar datos, descomponer problemas y facilitar su interpretación computacional.<br />6.1. Conectar las matemáticas con el mundo real utilizando procesos de investigación científica.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 2 horas.<br />🛠️ Herramienta: Google Forms.<br /></p>
+<p><br /></p>
+<h3><strong>📝 Tarea 2: Elaboración de tablas estadísticas (5 tablas)</strong><br />🎯 Criterios de evaluación:</h3>
+<p>1.1. Interpretar problemas matemáticos sencillos y comprender sus datos.<br />1.3. Obtener soluciones en contextos cotidianos aceptando el error como aprendizaje.<br />3.3. Emplear herramientas tecnológicas y software de análisis numérico o estadístico.<br />7.1. Representar y visualizar conceptos matemáticos con herramientas digitales.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 2 h 30 min.<br />🛠️ Herramienta: Google Sheets.<br /></p>
+<p><br /></p>
+<h3><strong>📝 Tarea 3: Elaboración de gráficos estadísticos (5 gráficos)</strong><br />🎯 Criterios de evaluación:</h3>
+<p>3.3. Usar software matemático y paquetes estadísticos para comprobar conjeturas.<br />7.1. Usar herramientas digitales sencillas para estructurar y visualizar procesos matemáticos.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 30 min.<br />🛠️ Herramienta: Google Sheets.<br /></p>
+<p><br /></p>
+<h3><strong>📝 Tarea 4: Análisis de resultados del estudio en una presentación</strong><br />🎯 Criterios de evaluación:</h3>
+<p>1.1. Interpretar problemas reconociendo datos y estableciendo relaciones básicas.<br />6.3. Reconocer la aportación de las matemáticas a los retos de la sociedad actual.<br />7.1. Representar información matemática para visualizar ideas y compartir información.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 2 horas.<br />🛠️ Herramienta: Google Slides.<br /></p>
+<p><br /></p>
+<h3><strong>📝 Tarea 5: Exposición oral del estudio</strong><br />🎯 Criterios de evaluación:</h3>
+<p>7.2. Esbozar representaciones simbólicas o gráficas que ayuden a resolver situaciones.<br />10.2. Participar en equipo de forma inclusiva, asumiendo normas y la propia responsabilidad.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 15 min.<br />🛠️ Herramienta: Google Slides.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780687043765-phetkl6sy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace, se detalla la <strong>relación entre los criterios de evaluación y las tareas</strong>: </p>\n<p style=\"text-align: center;\"><a href=\"https://docs.google.com/document/d/1MH-CxZZodNb4BtoQy2hqzfjr4Zx2gZKU/edit\" title=\"\">TABLA CRITERIOS DE EVALUACIÓN</a></p>\n<p style=\"text-align: left;\">De manera <strong>resumida</strong>, lo expresamos a continuación: </p>\n<p style=\"text-align: left;\"></p>\n<h3>📝 <strong>Tarea 1: Creación de la encuesta del estudio</strong><br />🎯 Criterios de evaluación:</h3>\n<p>4.1. Organizar datos, descomponer problemas y facilitar su interpretación computacional.<br />6.1. Conectar las matemáticas con el mundo real utilizando procesos de investigación científica.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 2 horas.<br />🛠️ Herramienta: Google Forms.<br /></p>\n<p><br /></p>\n<h3><strong>📝 Tarea 2: Elaboración de tablas estadísticas (5 tablas)</strong><br />🎯 Criterios de evaluación:</h3>\n<p>1.1. Interpretar problemas matemáticos sencillos y comprender sus datos.<br />1.3. Obtener soluciones en contextos cotidianos aceptando el error como aprendizaje.<br />3.3. Emplear herramientas tecnológicas y software de análisis numérico o estadístico.<br />7.1. Representar y visualizar conceptos matemáticos con herramientas digitales.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 2 h 30 min.<br />🛠️ Herramienta: Google Sheets.<br /></p>\n<p><br /></p>\n<h3><strong>📝 Tarea 3: Elaboración de gráficos estadísticos (5 gráficos)</strong><br />🎯 Criterios de evaluación:</h3>\n<p>3.3. Usar software matemático y paquetes estadísticos para comprobar conjeturas.<br />7.1. Usar herramientas digitales sencillas para estructurar y visualizar procesos matemáticos.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 30 min.<br />🛠️ Herramienta: Google Sheets.<br /></p>\n<p><br /></p>\n<h3><strong>📝 Tarea 4: Análisis de resultados del estudio en una presentación</strong><br />🎯 Criterios de evaluación:</h3>\n<p>1.1. Interpretar problemas reconociendo datos y estableciendo relaciones básicas.<br />6.3. Reconocer la aportación de las matemáticas a los retos de la sociedad actual.<br />7.1. Representar información matemática para visualizar ideas y compartir información.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 2 horas.<br />🛠️ Herramienta: Google Slides.<br /></p>\n<p><br /></p>\n<h3><strong>📝 Tarea 5: Exposición oral del estudio</strong><br />🎯 Criterios de evaluación:</h3>\n<p>7.2. Esbozar representaciones simbólicas o gráficas que ayuden a resolver situaciones.<br />10.2. Participar en equipo de forma inclusiva, asumiendo normas y la propia responsabilidad.<br />👥 Agrupamiento: Grupal (4 alumnos/as).<br />⏱️ Tiempo aproximado: 15 min.<br />🛠️ Herramienta: Google Slides.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+      <odeBlockId>block-1780689787740-maojziwn8</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjel-0tixcrb4x</odePageId>
+          <odeBlockId>block-1780689787740-maojziwn8</odeBlockId>
+          <odeIdeviceId>idevice-1780689787737-wrg418lw4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente esquema se muestran los instrumentos utilizados para cada tarea del proyecto: </p>
+<p><img src="asset://c38b5e57-9006-7de7-a211-e003322311ab.png" width="1408" height="768" alt="" /></p>
+<p><br /></p>
+<p>La lista de control, la escala de valoración y las rúbricas a emplear pueden consultarse en el siguiente <a href="https://docs.google.com/document/d/1Yu42sjW1ywqW6J9Gei6PiRhH2P7CSPf-Jdg_Y3maBao/edit?usp=sharing" title="">ENLACE 1</a>. La autoevaluación en el <a href="https://cedec.intef.es/rubrica/diana-de-evaluacion/.">ENLACE 2</a>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780689787737-wrg418lw4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente esquema se muestran los instrumentos utilizados para cada tarea del proyecto: </p>\n<p><img src=\"asset://c38b5e57-9006-7de7-a211-e003322311ab.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>\n<p><br /></p>\n<p>La lista de control, la escala de valoración y las rúbricas a emplear pueden consultarse en el siguiente <a href=\"https://docs.google.com/document/d/1Yu42sjW1ywqW6J9Gei6PiRhH2P7CSPf-Jdg_Y3maBao/edit?usp=sharing\" title=\"\">ENLACE 1</a>. La autoevaluación en el <a href=\"https://cedec.intef.es/rubrica/diana-de-evaluacion/.\">ENLACE 2</a>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq21yjem-13q7oxlr3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq21yjem-13q7oxlr3</odePageId>
+      <odeBlockId>block-1780684168959-sosczfd88</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq21yjem-13q7oxlr3</odePageId>
+          <odeBlockId>block-1780684168959-sosczfd88</odeBlockId>
+          <odeIdeviceId>idevice-1780684168957-tlvcdaulo</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Proyecto Final: "Las estadísticas que nos rodean"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El proyecto se centra en la investigación social y el análisis de temáticas que formen parte de la realidad cotidiana del alumnado, a elegir por ellos mismos. Por ejemplo: deportes, moda, redes sociales, libros, cine, etc. Se convierten en “analistas de datos” de su propio entorno. Nivel al que va dirigido: 3º ESO. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ainoa Fernández L</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
